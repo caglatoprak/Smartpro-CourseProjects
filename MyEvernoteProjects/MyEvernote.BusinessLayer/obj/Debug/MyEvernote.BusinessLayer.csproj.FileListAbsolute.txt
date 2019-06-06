@@ -1,0 +1,71 @@
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.BusinessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Core.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.csproj.CopyComplete
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.BusinessLayer\obj\Debug\MyEvernote.BusinessLayer.pdb

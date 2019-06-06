@@ -1,0 +1,18 @@
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.csprojAssemblyReference.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.csproj.CoreCompileInputs.cache
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+C:\Users\altan\OneDrive\Masaüstü\Web ve Mobil Prog\13-14.-15.-16.Hafta\Udemy-MyEvernote-Sample-Project-master\Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
