@@ -1,5 +1,5 @@
 # Smartpro-CourseProjects
-The projects we created at the 5.5 month web and programming course at Smartpro
+
 
 i) E-CommerceSite
 
